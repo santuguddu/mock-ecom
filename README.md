@@ -87,8 +87,12 @@ npm start
 
 # Demo video of the project 
 
-## 🎥 Demo
+## 🎥 Demo link 
 
-![App Demo](./screenshots/demo.gif)
+https://youtu.be/iBo596F2jao
+
+
+
+
 
 
